@@ -1,0 +1,22 @@
+.nav{
+    background-color: #161D2F ;
+}
+
+
+
+.iconColor
+{
+    color: #5A698F  ;
+    font-size: 18px;
+}
+
+.iconColor:hover {
+    color: var(--secondary-color);
+    font-size: 18px;
+}
+
+
+.toggle
+{
+    background-color: var(--secondary-color) !important
+}

@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+
+
+
+:root {
+  --secondary-color: #FC4747;
+  --main-color: #10141E;
+  --third-color: #161D2F;
+}
+
+::selection{
+  background-color: var(--secondary-color);
+}
+
+
+body {
+  margin: 0;
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--main-color);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.active {
+  color: #fff !important;
+}
+
+.text-main {
+  color: #fff !important ;
+  font-family: 'Outfit';
+  font-weight: 300;
+}
+
+.text-faded 
+{
+    color: #ffffffa0;
+      font-family: 'Outfit';
+      font-weight: 100;
+}
+
+.text-desc 
+{
+    color: #ffffffc8;
+      font-family: 'Outfit';
+      font-weight: 200;
+}
+
+.MuiPagination-root {
+  button {
+    color: #fff !important;
+  }
+}
+.MuiPagination-root {
+  .MuiPaginationItem-root {
+    color: #fff !important;
+  }
+
+  .MuiPaginationItem-ellipsis {
+    color: #fff !important;
+  }
+}
+
+iframe#webpack-dev-server-client-overlay {
+  display: none !important
+}

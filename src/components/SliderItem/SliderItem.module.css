@@ -1,0 +1,8 @@
+.Details {
+    position: absolute;
+    bottom: 0%;
+    width: 100%;
+    overflow: hidden;
+    /* background-color: rgba(10, 10, 10, 0.519); */
+    z-index: 1000;
+}
