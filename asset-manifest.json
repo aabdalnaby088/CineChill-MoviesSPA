@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CineChill-MoviesSPA/static/css/main.2efdede5.css",
-    "main.js": "/CineChill-MoviesSPA/static/js/main.9ede4edd.js",
+    "main.js": "/CineChill-MoviesSPA/static/js/main.f614b00a.js",
     "reactPlayerYouTube.js": "/CineChill-MoviesSPA/static/js/reactPlayerYouTube.47ca0389.chunk.js",
     "reactPlayerSoundCloud.js": "/CineChill-MoviesSPA/static/js/reactPlayerSoundCloud.ecae26ae.chunk.js",
     "reactPlayerVimeo.js": "/CineChill-MoviesSPA/static/js/reactPlayerVimeo.1a9ad492.chunk.js",
@@ -32,7 +32,7 @@
     "static/media/slick.woff": "/CineChill-MoviesSPA/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/CineChill-MoviesSPA/index.html",
     "main.2efdede5.css.map": "/CineChill-MoviesSPA/static/css/main.2efdede5.css.map",
-    "main.9ede4edd.js.map": "/CineChill-MoviesSPA/static/js/main.9ede4edd.js.map",
+    "main.f614b00a.js.map": "/CineChill-MoviesSPA/static/js/main.f614b00a.js.map",
     "reactPlayerYouTube.47ca0389.chunk.js.map": "/CineChill-MoviesSPA/static/js/reactPlayerYouTube.47ca0389.chunk.js.map",
     "reactPlayerSoundCloud.ecae26ae.chunk.js.map": "/CineChill-MoviesSPA/static/js/reactPlayerSoundCloud.ecae26ae.chunk.js.map",
     "reactPlayerVimeo.1a9ad492.chunk.js.map": "/CineChill-MoviesSPA/static/js/reactPlayerVimeo.1a9ad492.chunk.js.map",
@@ -50,6 +50,6 @@
   },
   "entrypoints": [
     "static/css/main.2efdede5.css",
-    "static/js/main.9ede4edd.js"
+    "static/js/main.f614b00a.js"
   ]
 }
